@@ -9,5 +9,5 @@ The *SpamDetectionBot.py* script (i.e. the Telegram Bot) receives message from t
 
 Here is a screenshot displaying the interaction of a user with the bot:
 
-
+![alt text](https://github.com/ANDRYA005/Telegram_Digit_Recognition_Bot/blob/master/Screenshot_for_GitHub.PNG)
 
